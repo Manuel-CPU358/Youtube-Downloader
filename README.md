@@ -1,8 +1,9 @@
 # Youtube-Downloader
 This Python script allows users to download both individual YouTube videos and entire playlists as audio files (MP3 format) or video files (MP4 format). It utilizes the pytube library to fetch YouTube video information and download the content, tkinter for the graphical user interface (GUI), mutagen for audio metadata handling.
 
-Features:
+[Download EXE](https://drive.google.com/uc?export=download&id=1k-OrpFssYQk6Zccn3z8av_rJNE8_I0QP)
 
+Features:
 Download individual YouTube videos by providing the video URL.
 Download entire YouTube playlists by providing the playlist URL.
 Choose to download either audio-only or full video content.
